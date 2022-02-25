@@ -25,14 +25,16 @@ body{
 
 .main-wall{
     background-color: cornsilk;
-    width: 75%;
+    width: 74%;
     height: 520px;
 }
 
 .column{
     background-color:white;
-    width: 22%;
-    height: 520px;
+    width: 17.5%;
+    height: 464px;
+    border-radius: 10px;
+    padding: 28px;
     border-radius: 10px;
 }
 
@@ -58,31 +60,74 @@ body{
 
 .right-row1{
     background-color: dimgray;
-    width: 30%;
-    height: 246px;
+    width: 23%;
+    height: 190px;
     border-radius: 10px;
+    padding: 28px;
 }
 
 .left-row1{
     background-color: darkorchid;
-    width: 66%;
-    height: 246px;
+    width: 59%;
+    height: 190px;
     border-radius: 10px;
+    padding: 28px;
 }
 
 
 .right-row2{
     background-color: black;
-    width: 66%;
-    height: 246px;
+    width: 59%;
+    height: 190px;
     border-radius: 10px;
+    padding: 28px;
 }
 
 .left-row2{
     background-color: white;
-    width: 30%;
-    height: 246px;
+    width: 23%;
+    height: 190px;
     border-radius: 10px;
+    padding: 28px;
 }
+
+
+.head-testimony {
+    background-color: purple;
+    height: 40px;
+    display: flex;
+}
+
+.title-testimony {
+    background-color: rebeccapurple;
+    height: 70px;
+}
+
+.text-testimony {
+    background-color: palevioletred;
+    height: 80px;
+}
+
+.text-testimony-column {
+    background-color: palevioletred;
+    height: 354px;
+}
+
+.image-testimony img {
+    height: 35px;
+    width: 35px;
+}
+
+.name-testimony p {
+    margin: 0;
+
+}
+
+.name-testimony h4 {
+    margin: 0;
+
+}
+
+
 
 
